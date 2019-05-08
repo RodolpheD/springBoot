@@ -1,13 +1,13 @@
-package com.rdeclerck.springbootrestserverapi;
+package com.rdeclerck.springbootrestserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootRestserverapiApplication {
+public class SpringbootRestserverApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootRestserverapiApplication.class, args);
+		SpringApplication.run(SpringbootRestserverApplication.class, args);
 	}
 
 }
